@@ -1,0 +1,10 @@
+run:
+Enter First Name: Tlotlego
+Enter Last Name: Montsho
+Create a username: Tlo_
+Username successfully captured.
+Create a password: 12345
+Password is not correctly formatted; please ensure that the password contains at least eight characters, a capital letter, a number and a special character.
+Create a password: Tlotlego@3
+Password successfully captured.
+Enter your South African phone number with +27 (e.g. +27831234567): 
